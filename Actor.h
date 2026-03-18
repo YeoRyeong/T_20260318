@@ -1,9 +1,9 @@
 #pragma once
-class AFloor
+class AActor
 {
 public:
-	AFloor();
-	~AFloor();
+	AActor();
+	~AActor();
 
 	int X;
 	int Y;

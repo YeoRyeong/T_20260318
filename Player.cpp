@@ -7,3 +7,7 @@ APlayer::APlayer()
 APlayer::~APlayer()
 {
 }
+
+void APlayer::Move()
+{
+}
